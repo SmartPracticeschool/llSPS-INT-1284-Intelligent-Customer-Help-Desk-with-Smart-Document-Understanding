@@ -3,6 +3,7 @@ Intelligent Customer Help Desk with Smart Document Understanding
 
 
 My youtube link:
+Both demo plus the feedback are included in the same video.
 https://www.youtube.com/watch?v=WdhiGfpBkMI&feature=youtu.be
 
 
